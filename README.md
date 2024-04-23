@@ -19,3 +19,5 @@ The following `bitsandbytes` quantization config was used during training:
 
 
 - PEFT 0.4.0
+
+The trained model can be found at https://huggingface.co/Likhith117/Llama-2-7b-chat-finetune-Indian-polity
